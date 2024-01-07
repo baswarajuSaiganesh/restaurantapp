@@ -1,0 +1,22 @@
+.dish-image {
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 160px;
+}
+
+.dish-item-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quantity-container {
+  display: flex;
+}

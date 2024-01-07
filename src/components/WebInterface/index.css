@@ -1,0 +1,6 @@
+.category-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 32px;
+}

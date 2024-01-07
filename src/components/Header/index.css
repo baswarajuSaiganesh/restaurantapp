@@ -1,0 +1,26 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 25px;
+}
+
+.order-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.cart-icon {
+  height: 30px;
+  width: 70px;
+}
+
+.cart-icon-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.items-count {
+  align-self: flex-start;
+}
